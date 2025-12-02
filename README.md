@@ -2,9 +2,9 @@
 
 # Install python to run pip commands
 # Install pandas, numpy, seaborn, keras, and matplotlib
-  pip install numpy
-  pip install pandas
-  pip install seaborn
-  pip install keras
-  pip install matplotlib
+### pip install numpy
+### pip install pandas
+### pip install seaborn
+### pip install keras
+### pip install matplotlib
 # clone git repository
